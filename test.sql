@@ -1,1 +1,1 @@
-SELECT * FROM nothing;
+SELECT this FROM nothing;
