@@ -1,0 +1,1 @@
+SELECT alles FROM nothing;
